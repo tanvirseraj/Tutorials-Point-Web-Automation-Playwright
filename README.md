@@ -108,3 +108,13 @@ Follow these steps to set up your development environment and start using Seleni
 	</dependencies>
 ```
 ## Extent Report
+![image](https://github.com/tanvirseraj/Tutorials-Point-Web-Automation-Playwright/assets/85784149/6a2aaa10-29c2-495c-9e18-03a5f49638a1)
+![image](https://github.com/tanvirseraj/Tutorials-Point-Web-Automation-Playwright/assets/85784149/28bfe025-4b67-445c-9944-a5e3697796b4)
+![image](https://github.com/tanvirseraj/Tutorials-Point-Web-Automation-Playwright/assets/85784149/1439ded2-674a-42aa-8138-bd55f1f8f818)
+![image](https://github.com/tanvirseraj/Tutorials-Point-Web-Automation-Playwright/assets/85784149/8a0f5db8-7519-4225-bf4a-54c4518f456e)
+![image](https://github.com/tanvirseraj/Tutorials-Point-Web-Automation-Playwright/assets/85784149/68a341da-4be9-41df-9835-1359f5c43458)
+
+
+
+
+

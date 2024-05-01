@@ -1,3 +1,5 @@
+## Why Playwright
+Based on the specific scope of my web application, Playwright has proven to be the most suitable choice. The selection between Playwright and Cypress depends on the system's requirements, considering factors such as browser support and the complexity of testing scenarios. Playwright's versatility and comprehensive browser compatibility make it ideal for diverse testing needs, while Cypress offers simplicity and ease of use for straightforward scenarios. It is crucial to evaluate these frameworks in relation to your project's unique demands to make an informed decision.
 ### Table of Contents
 
 1. [Overview](#Overview)
@@ -105,3 +107,4 @@ Follow these steps to set up your development environment and start using Seleni
 		
 	</dependencies>
 ```
+## Extent Report
